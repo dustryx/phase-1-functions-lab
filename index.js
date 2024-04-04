@@ -13,3 +13,4 @@ function distanceFromHqInFeet (pickupLocation) {
 function distanceTravelledInFeet (startblock, endblock) {
     return maths.abs(endblock - startblock) npm *264;
 }
+
